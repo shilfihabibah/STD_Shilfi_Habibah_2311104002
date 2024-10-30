@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1730270989 source:d:\kuliah\semester 3\praktikum struktur data\07_stack\unguided7\soal1\main.cpp
+	<iostream>
+	<stack>
+	<string>
+	<algorithm>
+
