@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1733758107 source:d:\kuliah\semester 3\praktikum struktur data\12_graph\unguided\soal1\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<limits>
+
